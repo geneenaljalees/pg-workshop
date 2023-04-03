@@ -5,7 +5,7 @@ Inspired and based on [Shireen Zoaby](https://github.com/shiryz) [original works
 
 ----
 
-In this workshop we'll be building on what we learnt in the [pg code along](https://github.com/ali-7/pg-code-along). This app currently contains static data on users' name and location. We'll be setting up our own database connection so that the data can be retrieved from a table of "users" instead. We'll also want to write code that enables us to add new users via a form.
+In this workshop we'll be building on what we learnt in the [pg code along](https://github.com/GSG-CA/pg-code-along). This app currently contains static data on users' name and location. We'll be setting up our own database connection so that the data can be retrieved from a table of "users" instead. We'll also want to write code that enables us to add new users via a form.
 
 ## Getting started
 
