@@ -1,5 +1,4 @@
 const express = require("express");
-// const users = require("./static");
 const { fetchUsers , addUser, removeUser} = require('./user.controller');
 
 const router = express.Router();

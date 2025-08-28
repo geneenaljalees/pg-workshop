@@ -1,6 +1,9 @@
-const { getUsers } = require('../database/queries/getData.js');
-const { createUser } = require('../database/queries/postData.js');
-const { deleteUser } = require('../database/queries/deleteData.js');
+const {
+  getUsers,
+  createUser,
+  deleteUser,
+} = require('../database/queries/user.queries.js');
+
 
 
 const fetchUsers = async (req, res, next) => {
